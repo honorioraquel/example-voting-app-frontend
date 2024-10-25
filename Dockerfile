@@ -18,3 +18,4 @@ EXPOSE 4200
 
 # Comando para build em modo de desenvolvimento
 CMD ["npm", "start"]
+
